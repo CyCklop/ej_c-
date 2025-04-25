@@ -3,10 +3,10 @@
 namespace CSHelloWorld
 {
     class HelloWorld 
-{
-        static void Main(string[] args)
     {
+        static void Main(string[] args)
+        {
             Console.WriteLine("Hola, Mundo");
+        }
     }
-}
 }
